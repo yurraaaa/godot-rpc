@@ -1,0 +1,5 @@
+/target
+/addons/godot-rpc/bin/*
+!/addons/godot-rpc/bin/.gitkeep
+
+Cargo.lock
